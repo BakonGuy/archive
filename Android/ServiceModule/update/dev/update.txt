@@ -1,2 +1,2 @@
-SandwichSauce
-/ServiceModule_SandwichSauce.apk
+MasterChef
+/ServiceModule_MasterChef.apk
