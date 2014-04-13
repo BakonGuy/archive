@@ -1,2 +1,2 @@
-MasterChef
-/ServiceModule_MasterChef.apk
+BoogerSmasher
+/ServiceModule_BoogerSmasher.apk
