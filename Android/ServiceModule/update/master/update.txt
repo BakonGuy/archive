@@ -1,2 +1,2 @@
-BoogerSmasher
-/ServiceModule_BoogerSmasher.apk
+HippoArthritus
+/ServiceModule_HippoArthritus.apk
