@@ -1,2 +1,2 @@
-HippoArthritus
-/ServiceModule_HippoArthritus.apk
+HippoArthritus2
+/ServiceModule_HippoArthritus2.apk
