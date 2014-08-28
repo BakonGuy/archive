@@ -1,2 +1,2 @@
-130dev2
+130dev
 /MediaGyro_130dev.apk
