@@ -1,2 +1,2 @@
-YesThatsBacon
-/ServiceModule_YesThatsBacon.apk
+HamSammich
+/ServiceModule_HamSammich.apk
