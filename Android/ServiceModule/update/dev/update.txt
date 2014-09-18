@@ -1,2 +1,2 @@
-HamSammich
-/ServiceModule_HamSammich.apk
+TurkeySammich
+/ServiceModule_TurkeySammich.apk
