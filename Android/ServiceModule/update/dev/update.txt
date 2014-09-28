@@ -1,2 +1,2 @@
-TurkeySammich
-/ServiceModule_TurkeySammich.apk
+PeanutButter
+/ServiceModule_PeanutButter.apk
