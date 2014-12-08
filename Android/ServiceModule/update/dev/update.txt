@@ -1,2 +1,2 @@
-PeanutButter
-/ServiceModule_PeanutButter.apk
+Nutella
+/ServiceModule_Nutella.apk
