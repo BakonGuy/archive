@@ -1,2 +1,2 @@
-Nutella
-/ServiceModule_Nutella.apk
+VanillaPudding
+/ServiceModule_VanillaPudding.apk
