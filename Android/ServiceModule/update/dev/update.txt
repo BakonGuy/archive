@@ -1,2 +1,2 @@
-VanillaPudding
-/ServiceModule_VanillaPudding.apk
+Butterscotch
+/ServiceModule_Butterscotch.apk
